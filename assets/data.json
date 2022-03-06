@@ -1,0 +1,907 @@
+[
+        {
+            "en_word": "Antiquity",
+            "uz_word": "Antik davr",
+            "discription": "(lot.antiquus qadimiy) qadimgi yunonlar va rimliklar madaniyatiga xos davr. Uygʻonish davrida yuzaga kelgan atama. "
+        },
+        {
+            "en_word": "Applicant",
+            "uz_word": "Abiturient",
+            "discription": "o’rta-maxsus ta’lim muassasasi, akademik litsey, kasb-xunar kollejini bitirib, oliy o’quv yurtiga kirishga talabgor."
+        },
+        {
+            "en_word": "Abstraction",
+            "uz_word": "Abstraktlash",
+            "discription": "mavhumlashtirish orqali nazariy umumlashmalar hosil qilishdan iborat ta’lim metodi."
+        },
+        {
+            "en_word": "Self-monitoring",
+            "uz_word": "Avtomonitoring",
+            "discription": "o’qituvchining o’z kasbiy faoliyatiga qay darajada tayyorligini nazorat qilish. O’z-o’zini baholash va intellektual salohiyatini muntazam rivojlantirib borishni nazorat qilish jarayoni."
+        },
+        {
+            "en_word": "Authoritarian education",
+            "uz_word": "Avtoritar ta’lim–tarbiya",
+            "discription": "o’quvchini o’qituvchiga bo’ysundirishdan iborat bo’lgan ta’lim tarbiya usuli."
+        },
+        {
+            "en_word": "Authoritarian technology",
+            "uz_word": "Avtoritar texnologiya",
+            "discription": "1) an’anaviy ta’lim jarayonining ifodasi bo’lib, o’qitish jarayonida o’quvchi ob’ekt, o’qituvchi sub’ekt sifatida faoliyat ko’rsatishiga asoslangan tizim; 2) o’quv-tarbiya jarayonida o’quvchini bo’ysundirish asosida boshqarish texnologiyasi"
+        },
+        {
+            "en_word": "Abstract",
+            "uz_word": "Avtoreferat",
+            "discription": "pedagogik tadqiqotni amalga oshirgan muallifning referati. Dissertatsiya avtoreferati."
+        },
+        {
+            "en_word": "Agraphia",
+            "uz_word": "Agrafiya",
+            "discription": "(lot. yoza olmayman) – nutq faoliyatidagi kamchilik tufayli o’quvchida yozish ko’nikmalarini shakllantirish mumkin emasligi."
+        },
+        {
+            "en_word": "Adaptation",
+            "uz_word": "Adaptatsiya",
+            "discription": "o’quv jarayoni, o’quv faoliyatiga moslashuv."
+        },
+        {
+            "en_word": "Adequate",
+            "uz_word": "Adekvatlik",
+            "discription": "ilmiy tadqiqot ishi natijasining tadqiqot ob’ekti kechishi, ya’ni ob’ektning funksional vazifalarini (o’zgarish, ishlash qonuniyatlarini va h.k.) aynan aks ettirishini nazorat qilish."
+        },
+        {
+            "en_word": "Adjunct",
+            "uz_word": "Ad’yunkt",
+            "discription": "oliy ta’lim yoki ITMning ad’yukturasiga belgilangan tartibda qabul qilingan va harbiy yo’nalishdagi alohida dastur asosida ma’lum mutaxssislik bo’yicha nomzodlik dissertatsiyasi ustida ilmiy ish olib borayotgan mutaxassislik yoki magistrlik diplomiga ega bo’lgan oliy ma’lumotli izlanuvchi."
+        },
+        {
+            "en_word": "Academic (quality)",
+            "uz_word": "Akademik (sifat)",
+            "discription": "1) akademiyaning ilmiy muassasa yoki oliy hamda o’rta maxsus o’quv yurti ma’nosidagi tushunchalariga taalluqlilikni bildiradi. 2)O’zbekiston va MDHda etuk ijrochilik jamoalari, teatrlarga beriladigan faxriy nom."
+        },
+        {
+            "en_word": "Academic publication",
+            "uz_word": "Akademik nashr",
+            "discription": "Fan, adabiyot va san’at asarlarining ilmiy asosda tayyorlangan nashri. Asosan mutaxassislar va ilm ahliga mo’ljallanadi, ilmiy tadqiqot maqsadini ko’zda tutadi."
+        },
+        {
+            "en_word": "Academism",
+            "uz_word": "Akademizm",
+            "discription": "1) ilmiy tadqiqot muassasalari va o’quv yurtlarida; quruq nazariyaga berilib ketish, amaliyotdan uzilib qolish, quruq nazariyaga tayanishdan iborat."
+        },
+        {
+            "en_word": "Academic lyceum",
+            "uz_word": "Akademik litsey",
+            "discription": "muayyan fanni chuqur o’rgatishga yo’naltirilgan o’rta maxsus ta’lim muassasasi."
+        },
+        {
+            "en_word": "Academy",
+            "uz_word": "Akademiya",
+            "discription": "1) ilm-fan yoki san’atni rivojlantirish uchun tuzilgan oliy ilmiy muassasa; 2) Ba’zi bir oliy o’quv yurtlarining nomi. Qishloq xo’jaligi akademiyasi. Harbiy meditsina akademiyasi."
+        },
+        {
+            "en_word": "Acmeology",
+            "uz_word": "Akmealogiya",
+            "discription": "insonni o’z taraqqiyoti dinamikasida, takomili hamda hayot faoliyatining turli bosqichlarida o’zidagi eng kuchli qobiliyatlarini namoyon qilishning kompleks masalalarini o’rganadigan fan tarmog’i."
+        },
+        {
+            "en_word": "Acceleration",
+            "uz_word": "Akseleratsiya",
+            "discription": "bolalar va o’smirlarda og’irlik va tana hajmining kattalashuvi, fiziologik o’sishdagi jadallashuv, erta jinsiy balog’atga etishni ifodalovchi somatik rivojlanish."
+        },
+        {
+            "en_word": "Axiology",
+            "uz_word": "Aksiologiya",
+            "discription": "qadriyatlar to’g’risidagi fan."
+        },
+        {
+            "en_word": "Alternative",
+            "uz_word": "Alternativ",
+            "discription": "muqobil, muqobil o’quv materiali."
+        },
+        {
+            "en_word": "The method of analysis",
+            "uz_word": "Analiz metodi",
+            "discription": "1)pedagogik tadqiqot metodi bo’lib, unda tekshirish ob’ekti fikran tarkibiy elementlarga ajratib tadqiq qilinadi; 2) o’quv vaziyatini har tomonlama tahlil qilish, chuqur tekshirish, o’rganish."
+        },
+        {
+            "en_word": "Analytical method",
+            "uz_word": "Analitik metod",
+            "discription": "tahlil qilishga yo’naltirilgan ta’lim metodi."
+        },
+        {
+            "en_word": "Conference",
+            "uz_word": "Anjuman",
+            "discription": "(arab.-yig’in) - 1) keng doirada o’tkaziladigan majlis, yig’ilish, kengash; 2) bir davrda yashab, bir sohada faoliyat ko’rsatgan atoqli shaxslar guruhi, jamiyati; 3) bir xil kasbdagi xunarmandlarning biror maslahatli ish yuzasidan vaqti-vaqti bilan yig’ilishib o’tkaziladigan majlisi, shogirdlarni ishga o’tkazish yig’ini, marosimi, ziyofati."
+        },
+        {
+            "en_word": "Questionnaire",
+            "uz_word": "Anketa",
+            "discription": "pedagogik tadqiqot metodi bo’lib, tegishli ma’lumot olish, to’plash uchun belgilangan so’roq varaqasi."
+        },
+        {
+            "en_word": "Annotation",
+            "uz_word": "Annotatsiya",
+            "discription": "kitob, qo’llanma va shu kabilarning ahamiyati, mazmuni haqida qisqacha ma’lumot."
+        },
+        {
+            "en_word": "Ancient pedagogy",
+            "uz_word": "Antik pedagogika",
+            "discription": "(lot. antiquus — ibtidoiy, qadimgi; yunon. paidagogit — qarab turish, ko’z-quloh bo’lib turish) — pedagogika fanining eramizdan avvalgi VII-V asrlaridagi qadimgi Gretsiya, Rim, qadimgi Xitoy va Hindiston ta’lim-tarbiya haqidagi ta’limotlarni o’rganuvchi bo’limi."
+        },
+        {
+            "en_word": "Tradition",
+            "uz_word": "An’ana",
+            "discription": "uzoq zamonlardan beri avloddan-avlodga, otalardan bolalarga o’tib, davom etib kelgan urf-odat, axloq me’yorlari, qarashlar yig’indisi."
+        },
+        {
+            "en_word": "Approbation",
+            "uz_word": "Aprobatsiya",
+            "discription": "pedagogik tadqiqot natijalarini rasmiy jihatdan belgilash."
+        },
+        {
+            "en_word": "Assistant",
+            "uz_word": "Assistent",
+            "discription": "(lot.- assistens - yordam beruvchi) – 1) mutaxassis yordamchisi, professor yoki dotsentlarga ko’maklashadigan kichik mutaxassis (masalan: professor assistenti); 2) oliy o’quv yurtlarida ilmiy unvon va o’qituvchilik lavozimi."
+        },
+        {
+            "en_word": "Term",
+            "uz_word": "Atama",
+            "discription": "bilim yoki faoliyatning maxsus sohasiga doir tushunchani ifodalovchi so’z yoki so’z birikmasi."
+        },
+        {
+            "en_word": "Certificate",
+            "uz_word": "Attestat",
+            "discription": "1)o’quv muassasasini tugatganligi to’g’risidagi davlat hujjati. Etuklik attestati-umumiy o’rta maktabni bitirib chiqqan o’quvchilarga beriladigan davlat hujjati; 2) ilmiy yoki maxsus unvon berilganlik to’g’risidagi shahodatnoma. Professorlik attestati. Katta ilmiy xodimlik attestati."
+        },
+        {
+            "en_word": "Attestation",
+            "uz_word": "Attestatsiya",
+            "discription": "1) mutaxassislarning ishga layoqati, malakasini, bilim darajasi va xulq atvorini aniqlash va shu asosda ishga tayinlash yoki unvon berish uchun o’tkaziladigan sinov; 2) O’zbekiston Respublikasining “Ta’lim to’g’risida”gi Qonuni va “Kadrlar tayyorlash milliy dasturi” va boshqa me’yoriy hujjatlar talablari asosida muayyan ta’lim muassasasi faoliyatining asosiy yo’nalishlari: moddiy-texnik bazasi, kadrlar bilan ta’minlanganligi, o’quv-tarbiyaviy ishlarning tashkil etilishi, boshqaruv darajasi, o’quv uslubiy ta’minoti, o’quvchilar va talabalar bilim darajasi va boshqa qator ko’rsatkichlar bo’yicha davlat ta’lim standartlariga nechog’liq muvofiq ekanligini aniqlab beruvchi jarayon."
+        },
+        {
+            "en_word": "Auditorium",
+            "uz_word": "Auditoriya",
+            "discription": "oliy va o’rta maxsus o’quv yurtlarida dars o’tkaziladigan xona."
+        },
+        {
+            "en_word": "Autotraining",
+            "uz_word": "Autotrening",
+            "discription": "o’z-o’zini ishontirishga asoslangan maxsus mashqlar majmui."
+        },
+        {
+            "en_word": "Athenian education",
+            "uz_word": "Afina tarbiyasi",
+            "discription": "miloddan avvalgi VII-V asrlarda Afinada shakllangan hamda Qadimgi Gretsiyada qo’llanilgan tarbiya tizimi. Afina    tarbiyasining   maqsadi    har    tomonlama    rivojlangan    insonni shakllantirishdan iborat bo’lgan. U o’zida aqliy, estetik, nafosat, axloqiy va jismoniy tarbiyani mujassamlashtirgan. Nafosat tarbiyasi asosan o’qish, yozish, musiqa, nutq madaniyati, falsafa, siyosatni o’rganish jarayonida amalga oshirilgan. Jismoniy tarbiya asosan, chopish, kurash, sakrash, nayza otish kabi turlar bilan shug’ullanishni nazarda tutgan. Axloqiy tarbiyada asosan intizomlilik, mardlik, o’zini tuta bilish, o’z qadrini bilish kabi xislatlar shakllantirilgan."
+        },
+        {
+            "en_word": "The Information Resource Center (IRC)",
+            "uz_word": "Axborot resurs markazi (ARM)",
+            "discription": "ta’lim muassasalari tarkibida tashkil etilgan axborot-kutubxona xizmati ko’rsatuvchi muassasa."
+        },
+        {
+            "en_word": "Morality",
+            "uz_word": "Axloq",
+            "discription": "1)  shaxsning o’zaro  bir-biri, jamiyat  a’zolariga nisbatan qabul qilingan me’yorlar asosidagi munosabatlari, hatti-harakatlari majmui, jamiyat tomonidan qabul qilingan xulq me’yorlari; 2) xulq-atvor, yurish-turish, tarbiya, adab."
+        },
+        {
+            "en_word": "Mind",
+            "uz_word": "Aql",
+            "discription": "inson miyasining dunyoni aks ettirish va shaxsning voqelikka bo’lgan munosabatlarini boshqarib turadigan faoliyati."
+        },
+        {
+            "en_word": "A school for mentally retarded children",
+            "uz_word": "Aqli zaif bolalar maktabi",
+            "discription": "aqli zaif bolalarni maxsus metodika asosida o’qitadigan umumiy o’rta ta’lim maktabi."
+        },
+        {
+            "en_word": "Mental education",
+            "uz_word": "Aqliy tarbiya",
+            "discription": "barkamol shaxsni hayotga tayyorlash uchun zarur bo’lgan barcha aqliy  jarayonlar, bilish qobiliyatlarini  maqsadga  muvofiq  shakllantirish va rivojlantirishdan iborat jarayon"
+        },
+        {
+            "en_word": "Brainstorming",
+            "uz_word": "Aqliy hujum",
+            "discription": "muammoni hal etishga nisbatan intelluktual yondashuv. Bunda muammoni hal etishga oid shaxsiy farazlar ilgari suriladi."
+        },
+        {
+            "en_word": "Androgyny",
+            "uz_word": "Androgogika",
+            "discription": "katta yoshdagilarga ta`lim- tarbiya beruvchi pedagogik fan sohasi."
+        },
+        {
+            "en_word": "Art education",
+            "uz_word": "Badiiy tarbiya",
+            "discription": "yoshlarni san’atga nisbatan qiziqish va mehr- muhabbatlarini  tarbiyalash  hamda  ularda  badiiy  faoliyat  ko’nikma  va malakalarini tarkib toptirish jarayoni"
+        },
+        {
+            "en_word": "Assessment",
+            "uz_word": "Baho",
+            "discription": "ta’lim oluvchilar bilim, ko’nikma va malakalarining miqdoriy baholashda bal yoki raqamlar vositasida shartli ifodalanishi"
+        },
+        {
+            "en_word": "Assessment",
+            "uz_word": "Baholash",
+            "discription": "o’quvchi yoki talabaning egallagan bilim, ko’nikma va malakalari hamda shaxsiy sifati darajalarini belgilash."
+        },
+        {
+            "en_word": "A bachelor's degree",
+            "uz_word": "Bakalavriat",
+            "discription": "mutaxassisliklar yo’nalishi bo’yicha fundamental va amaliy bilim beradigan, ta’lim olish muddati kamida to’rt yil davom etadigan tayanch oliy ta’lim."
+        },
+        {
+            "en_word": "Adolescence",
+            "uz_word": "Balog’atga etish",
+            "discription": "balog’at, rasida (rasta) bo’lish, bo’yiga etish -organizmning bir qancha anatomik va fiziologik o’zgarishlar natijasida biologik jihatdan sekin-asta voyaga etishi hamda jinsiy jihatdan etilib, ko’payishga, ya’ni naslni davom ettirishga layoqatli bo’lib qolishi. Qizlar o’g’il bolalarga nisbatan ertaroq balog’atga  etadi.  Qizlarda  bu  davr  aksari  12-14  yoshdan  16-18  yoshgacha,  o’g’il bolalarda 13-15 yoshdan 16-20 yoshgacha davom etadi."
+        },
+        {
+            "en_word": "A well-rounded person",
+            "uz_word": "Barkamol shaxs",
+            "discription": "kamolga etgan, bekamu ko’st, to’la-to’kis inson, aqlan va axloqan pok, jismonan sog’lom, nafosatli, jamiyatda o’zligini tanigan, mustaqil fikrlaydigan, erkin, ijodkor, tashabbuskor, ishbilarmon, fidoiy shaxs."
+        },
+        {
+            "en_word": "Sustainability",
+            "uz_word": "Barqarorlik",
+            "discription": "doimiy,   mustahkam   amal   qiluvchi   holatga   erishish, shuningdek, ushbu holatning doimiyligi, mustahkamligini ifodalovchi pedagogik tushunchalar."
+        },
+        {
+            "en_word": "Internationalism",
+            "uz_word": "Baynalminallik",
+            "discription": "jahondagi  turli  millat  va  irqlarga  mansub kishilarning halqaro birdamligi"
+        },
+        {
+            "en_word": "Symbolic information",
+            "uz_word": "Belgili ma’lumot",
+            "discription": "alifbo - raqamli belgilar majmui,  ya’ni sonli va sifat belgilarini o’zida mujassamlashtirgan ma’lumot."
+        },
+        {
+            "en_word": "Bibliography",
+            "uz_word": "Bibliografiya",
+            "discription": "1) foydalanilgan bosma  asarlarning  tizimlashtirilgan ilmiy ro’yxati. 2) shunday ro’yxatlar tuzish usullari bilan shug’ullanuvchi ilmiy soha. 3) biror masalaga  doir   kitob,   jurnal  va  maqolalar ro’yxati. 4) gazeta va jurnallarning yangi  chiqqan  kitoblar  haqida  axborot  berib  boradigan  maxsus bo’limi."
+        },
+        {
+            "en_word": "Knowledge",
+            "uz_word": "Bilim",
+            "discription": "o’quvchi va  talabalarning tabiat, jamiyat, fan-texnika yutuqlari haqida hosil qilgan ma’lumotlari. O’quvchi yoki talabalarga taqdim etiladigan nazariy ma’lumot."
+        },
+        {
+            "en_word": "Knowledge",
+            "uz_word": "Bilish",
+            "discription": "1) ta’lim jarayonida o’quvchi va talabalarga taqdim etilgan o’quv materialining   o’zlashtirilganlik   darajasi;   2)   borliq   va   uning   ob’ektiv qonuniyatlarni o’rganish, o’zlashtirish, egallash."
+        },
+        {
+            "en_word": "The cognitive component",
+            "uz_word": "Bilish komponenti",
+            "discription": "boshqalarni va o’z-o’zini bilishga qaratilgan psixik jarayonlar: sezgi, idrok, tasavvur, xotira, tafakkur, xayol va h.k."
+        },
+        {
+            "en_word": "Cognitive theory",
+            "uz_word": "Bilish nazariyasi",
+            "discription": "(gnoseologiya, epistemologiya) – bilish   qonuniyatlari va imkoniyatlari, bilimning obektiv reallikka munosabatini     o’rganadi, bilish jarayonining        bosqichlari    va    shakllarini,   bilishning    ishonchliligi   va haqqoniyligi shartlari va mezonlarini tadqiq qiladi."
+        },
+        {
+            "en_word": "A binary course",
+            "uz_word": "Binar dars",
+            "discription": "ta’lim oluvchilar bilimdonlikni tarkib toptirish imkonini beradigan mujassamlashgan dars."
+        },
+        {
+            "en_word": "Biographical method",
+            "uz_word": "Biografik metod",
+            "discription": "pedagogik tadqiqot usuli, shaxs kelajagini loyihalashtirish, tuzatish (korreksiyalash), tashxislash metodi"
+        },
+        {
+            "en_word": "Graduation thesis",
+            "uz_word": "Bitiruv malakaviy ishi",
+            "discription": "oliy ta’lim muassasalari bakalavriat bosqichi talabalarining o’z ta’lim yo’nalishlari bo’yicha 4 yil davomida olgan nazariy va amaliy bilimlarini mustahkamlash, kengaytirish hamda o’zlashtirgan bilimlari orqali muayyan ilmiy, iqtisodiy, ishlab chiqarish, ijtimoiy, madaniy sohalardagi muammolarni hal etish, o’z bilimlarini amaliyotda qo’llash maqsadida tayyorlaydigan ilmiy ishidir"
+        },
+        {
+            "en_word": "The rights of the child",
+            "uz_word": "Bola  huquqi",
+            "discription": "Birlashgan  Millatlar  Tashkilotining  Bola  huquqlari Konvensiyasi tomonidan tasdiqlangan umumiy, me’yoriy qonun qoidalar majmui."
+        },
+        {
+            "en_word": "Primary education",
+            "uz_word": "Boshlang’ich ta’lim",
+            "discription": "umumiy o’rta ta’limning dastlabki bosqichi O’zRda boshlang’ich  ta’lim  1-4-sinflarni  qamrab  oladi.  Unda  ta’lim  berish,  ularni aqliy, ma’naviy, jismoniy kamol toptirishning dastlabki bosqichi."
+        },
+        {
+            "en_word": "Management",
+            "uz_word": "Boshqarish",
+            "discription": "jarayonni rejalashtirilgan maromda amalga oshirish, o’qitish maqsadlariga   erishish   dasturini   ro’yobga   chiqarish   uchun   xizmat   qiladigan pedagogik faoliyat."
+        },
+        {
+            "en_word": "Management pedagogy",
+            "uz_word": "Boshqarish pedagogikasi",
+            "discription": "ta’lim muassasalarini boshqarishning nazariy amaliy asoslari."
+        },
+        {
+            "en_word": "Braille",
+            "uz_word": "Brayl shrifti",
+            "discription": "bo’rtma nuqtalardan iborat. Ko’zi ojizlar o’qish va yozish uchun mo’ljallangan. L.Brayl tomonidan yaratilgan Brayl shrifti asosida 6 nuqtani turli vaziyatda uyg’unlashtirishga asoslangan yozuv."
+        },
+        {
+            "en_word": "Brainstorming",
+            "uz_word": "Breynstorming",
+            "discription": "ta’lim oluvchilarning ijodiy ishlarini hamkorlikda tashkil etishlariga oid maxsus metod."
+        },
+        {
+            "en_word": "Duty",
+            "uz_word": "Burch",
+            "discription": "o’quvchi yoki talabaning, biror shaxs, oila, jamoa, el-yurt, Vatan oldidagi majburiyatini anglatuvchi axloqiy tushuncha."
+        },
+        {
+            "en_word": "Boomerang technology",
+            "uz_word": "“Bumerang” texnologiyasi",
+            "discription": "o’quvchini mashg’ulot va mashg’ulotdan tashqari jarayonlarda turli o’quv adabiyotlari, muammoli tajriba bajarish mazmuni bilan tanishtirish, fikrni erkin bayon etish hamda muayyan   tajribani     bajarish davomida uni baholashga qaratilgan texnologiya."
+        },
+        {
+            "en_word": "The \"fifth (sixth, seventh, ...) plus\" method",
+            "uz_word": "«Beshinchisi (oltinchisi, ettinchisi, ...) ortiqcha» metodi",
+            "discription": "tahsil oluvchilarning mantiqiy fikrlash ko’nikmalarini rivojlantirishga qaratilgan interfaol metod."
+        },
+        {
+            "en_word": "I know. I want to know. Learned ”method",
+            "uz_word": "«Bilaman. Bilishni xohlayman. Bilib oldim» metodi",
+            "discription": "tahsil oluvchilarga muayyan mavzular bo’yicha   darajasini baholay olish imkonini berishga qaratilgan interfaol metod."
+        },
+        {
+            "en_word": "Course",
+            "uz_word": "Dars",
+            "discription": "1) uzluksiz ta’lim muassasalarida amalga oshiriladigan ta’limning asosiy shakli; 2)   o’quv ishlarining asosiy tashkiliy shakli, mantiqiy tugallangan, yaxlit o’quv-tarbiyaviy jarayonning aniq vaqt bilan cheklangan qismi."
+        },
+        {
+            "en_word": "A syllabus",
+            "uz_word": "Dars jadvali",
+            "discription": "o’quv rejasiga ko’ra o’quv haftasining har bir kunida sinflar bo’yicha o’quv mashg’ulotlari pedagogik jihatdan maqsadga muvofiq  ketma- ketligini belgilovchi hujjat."
+        },
+        {
+            "en_word": "Lesson analysis",
+            "uz_word": "Dars tahlili",
+            "discription": "o’quv  mashg’ulotini bir  butun yaxlit holda yoki  muayyan bo’laklarga bo’lib baholash."
+        },
+        {
+            "en_word": "A textbook",
+            "uz_word": "Darslik",
+            "discription": "muayyan  fanga  doir  bilim  asoslarini  ma’lum  tartibda  bayon etadigan va yuqori ma’naviy-g’oyaviy, ilmiy uslubiy saviyada yozilgan o’quvchilar va talabalar uchun mo’ljallangan o’quv adabiyotining asosiy va etakchi turi."
+        },
+        {
+            "en_word": "The program",
+            "uz_word": "Dastur",
+            "discription": "o’quv faoliyatini amalga oshirish rejasi va ushbu faoliyatning mazmunini ifodalovchi me’yoriy hujjat."
+        },
+        {
+            "en_word": "Government grants",
+            "uz_word": "Davlat grantlari",
+            "discription": "bir qism, ya’ni yuqori bilim va iqtidorga ega bo’lgan talabalarning ta’lim olishini davlat tomonidan moliyatashtirilishi."
+        },
+        {
+            "en_word": "The state exam",
+            "uz_word": "Davlat imtihoni",
+            "discription": "O’zbekiston Respublikasida o’rta maxsus va kasb-hunar o’quv yurtlarida bitiruv imtihoni."
+        },
+        {
+            "en_word": "The State Education Standard (SES)",
+            "uz_word": "Davlat ta’lim standarti (DTS)",
+            "discription": "1) bu davlatning ta’lim darajasiga qo’ygan me’yori sifatida qabul qilinadigan asosiy parametrlar tizimi bo’lib, muayyan shaxsning ta’lim tizimidagi mavjud imkoniyatlari va ularni ideal darajaga etkazishga erishishni anglatadi; 2) ta’limning zarur, etarli darajasi va o’quv yuklamalari hajmiga qo’yiladigan asosiy davlat talablari majmuasidir."
+        },
+        {
+            "en_word": "The state and society",
+            "uz_word": "Davlat va jamiyat",
+            "discription": "Kadrlar tayyorlash milliy modelining asosiy tarkibiy qismlaridan biri bo’lib, ta’lim va kadrlar tayyorlash tizimining faoliyatini tartibga solish va nazorat qilishni amalga oshiruvchi qadrlar tayyorlash va ularni qabul qilib olishning kafolatlovchi sub’ektlari."
+        },
+        {
+            "en_word": "Defectology",
+            "uz_word": "Defektologiya",
+            "discription": "jismoniy va  ruhiy nuqsonli bolalar rivojlanishining psixofiziologik xususiyatlarini o’rganish, ularga maxsus ta’lim-tarbiya berish, undagi nuqsonlarni bartaraf etish qonuniyatlarini o’rganuvchi fan."
+        },
+        {
+            "en_word": "Definition",
+            "uz_word": "Definitsiya",
+            "discription": "muayyan pedagogik tushuncha haqidagi qisqacha ta’rif."
+        },
+        {
+            "en_word": "Determinant",
+            "uz_word": "Determinant",
+            "discription": "1)dastlabki asos, fikr, nuqtai nazar. 2) matematik tushuncha."
+        },
+        {
+            "en_word": "Deviant behavior",
+            "uz_word": "Deviant xulq-atvor",
+            "discription": "jamiyatda qabul qilingan me’yorlarga zid bo’lgan alohida hatti-harakatlar tizimi."
+        },
+        {
+            "en_word": "Diagnosis",
+            "uz_word": "Diagnostika",
+            "discription": "ta’lim  jarayoni,  o’qituvchi  hamda  o’quvchi  faoliyatining muayyan qirrasini o’rganish maqsadida amalga oshiriladigan tekshirish."
+        },
+        {
+            "en_word": "Dispute",
+            "uz_word": "Disput",
+            "discription": "1) o’quvchi yoki talabalar o’rtasida o’tkaziladigan ilmiy munozara; 2)ilmiy daraja olish uchun yozilgan ishni o’z hamkasblari, maslakdoshlari o’rtasida ochiq muhokama qilish jarayoni."
+        },
+        {
+            "en_word": "Doctiology",
+            "uz_word": "Doktilogiya",
+            "discription": "nutq  shakli;  o’ziga  xos  tarzda  qo’l  barmoqlari  yordamida gaplashish."
+        },
+        {
+            "en_word": "A doctoral student",
+            "uz_word": "Doktorant",
+            "discription": "fan nomzodi ilmiy darajasiga ega bo’lgan, oliy ta’lim yoki ilmiy   tadqiqot   muassasalarining   doktoranturasida   ma’lum   mutaxassislik bo’yicha doktorlik dissertatsiyasi ustida ilmiy ish olib borayotgan izlanuvchi."
+        },
+        {
+            "en_word": "Doctoral studies",
+            "uz_word": "Doktorantura",
+            "discription": "1)  oliy  o’quv  yurtlaridan keyingi ta’limning ikkinchi darajasi bo’lib, fan nomzodi ilmiy darajasi negizida 3 yil davom etadi hamda oliy malakali ilmiy va ilmiy-pedagogik kadrlarga bo’lgan ehtiyojlarni qondirishga, shaxsning ijodiy ta’lim, kasb-hunar manfaatlarini qanoatlantirishga qaratilgan; 2)  ta’lim  tizimining oliy  malakali  ilmiy  va ilmiy-pedagogik kadrlar tayyorlashga yo’naltiradigan aspiranturadan keyingi tarkibiy qismi"
+        },
+        {
+            "en_word": "Associate Professor",
+            "uz_word": "Dotsent",
+            "discription": "oliy o’quv yurtlarining mustaqil kurs olib boruvchi, ilmiy tekshirish qiluvchi yuqori ixtisosli o’qituvchisiga beriladigan ilmiy unvon. Dotsent unvoni respublika oliy o’quv yurtlari va ilmiy tadqiqot muassasalari ilmiy   (ilmiy-texnika)   kengashlarining   tavsiyasiga   binoan   O’zR   Vazirlar Mahkamasi xuzuridagi Oliy attestatsiya komissiyasi tomonidan beriladi."
+        },
+        {
+            "en_word": "Belief",
+            "uz_word": "E’tiqod",
+            "discription": "inson ruhiyatining qandaydir ma’lumot, matn, hodisa, voqea yoki shaxsiy  tasavvur  va  aqliy  xulosalar to’liq  va  e’tirozsiz    qabul  qilinadigan alohida holati."
+        },
+        {
+            "en_word": "ECTS (European Credit Transfer System) credit technology",
+            "uz_word": "ECTS  (European Credit  Transfer System) kredit texnologiyasi",
+            "discription": "oliy maktabda o’quv jarayonini tashkil etishning   demokratik tizimi, yagona Evropa ta’lim xududini yaratishning boshlang’ich darajasi."
+        },
+        {
+            "en_word": "Selfishness",
+            "uz_word": "Egoizm ",
+            "discription": "shaxsning o’z qiziqishi doirasiga bog’lanib qolishi, boshqa odamlar va narsalarga nisbatan o’zining dastlabki bilimiga oid qarash  yoki  fikrini  o’zgartira  olmasligi,  hatto  o’z  tajribasiga  qarama-qarshi axborotlarga moslasha bilmasligidan iborat xususiyati."
+        },
+        {
+            "en_word": "Egocentrism",
+            "uz_word": "Egotsentrizm",
+            "discription": "shaxsning  tafakkur  va  diqqatini  butkul  o’z-o’ziga yo’naltirishi bilan belgilanadigan holat."
+        },
+        {
+            "en_word": "Need",
+            "uz_word": "Ehtiyoj",
+            "discription": "shaxsning   me’yoriy hayotiy faoliyat yuritishi uchun tegishli talablarning  qondirilmaganligi  tufayli  mazkur  salbiy  hissiyotni  bartaraf etishga yo’naltirgan ruhiy pedagogik holati."
+        },
+        {
+            "en_word": "Environmental education",
+            "uz_word": "Ekologik tarbiya",
+            "discription": "o’quvchi va talabalarga atrof muhitga ehtiyotkorona munosabatda bo’lish me’yorlari va odobi, ilmiy, diniy, axloqiy qarashlar majmuasini singdirish jarayoni."
+        },
+        {
+            "en_word": "Excursion",
+            "uz_word": "Ekskursiya",
+            "discription": "(lot.  excursion –  sayr  qilish) –  1)  bilimni boyitish, amaliy tajriba hosil qilish yoki madaniy-ma’rifiy maqsadda diqqatga sazovor joylarga jamoa bo’lib borish; 2) bevosita kuzatish asosida muayyan jarayon, voqea­hodisa yoki faoliyat mazmunini yorituvchi bilimlarning puxta o’zlashtirilishini ta’minlovchi ta’lim shakli."
+        },
+        {
+            "en_word": "Experiment",
+            "uz_word": "Eksperiment",
+            "discription": "(lot. experimentum – tajriba, sinab ko’rish)  fanda narsa va hodisalarni sezgi-predmet faoliyati bilan tadqiq qilish, o’rganish. Kuzatishga qaraganda yuksakroq bilish usuli; 2) muayyan ilmiy maqsadga erishishni ko’zlab o’tkaziladigan tajriba."
+        },
+        {
+            "en_word": "Experimental method",
+            "uz_word": "Eksperiment metodi",
+            "discription": "1) hodisa va jarayonlardan rejalashtirilgan ishchi faraz asosidagi dadil - isbotlarni ro’yobga chiqarish va ularning tashqi    sharoitga bog’liqligini asoslashga qaratilgan metod; 2) ilmiy tajriba o’tkazish metodi."
+        },
+        {
+            "en_word": "Expression",
+            "uz_word": "Ekspressiya",
+            "discription": "1) ifodalilik; kechinma, hissiyotlarni namoyon etish quvvati. Inson   hissiyotlarini   tashqi   namoyon   bo’lishiga   xos ekspressiv ta’sir;   2) insonning o’zi yohud o’zgalarning ahvoli, ruhiy kechinmalari haqida imo-ishora orqali ma’lumot berish (imo-ishora, yuz ifodasi, pantomimika)."
+        },
+        {
+            "en_word": "Existentialism",
+            "uz_word": "Ekzistensializm",
+            "discription": "tarbiyani  shaxsning o’z-o’zini namoyon qilishi va ro’yobga chiqarishi uchun sharoit yaratishini targ’ib etishga qaratilgan pedagogik-falsafiy qarashlar tizimi."
+        },
+        {
+            "en_word": "The elective principle",
+            "uz_word": "Elektiv prinsip",
+            "discription": "o’quv predmetlarini o’quvchilar ixtiyoriga ko’ra tanlash."
+        },
+        {
+            "en_word": "Electronic communication",
+            "uz_word": "Elektron aloqa",
+            "discription": "munozarali forumlar o’tkazish va ulardan o’quv jarayonida foydalanish uchun turli ro’yxatlarni jonlantirishni tashkil etishga qaratilgan metod"
+        },
+        {
+            "en_word": "Empathy",
+            "uz_word": "Empatiya",
+            "discription": "insonning o’zga odamlarga nisbatan hamdardlik tuyg’usiga egalik layoqatini ifodalovchi holati."
+        },
+        {
+            "en_word": "A person who is prone to empathy",
+            "uz_word": "Empatiyaga moyil shaxs",
+            "discription": "qo’shilmasada, o’zgalar fikrini tinglashga qodir shaxs."
+        },
+        {
+            "en_word": "The empirical method",
+            "uz_word": "Empirik metod",
+            "discription": "tajriba–sinov metodikasiga ma’lum bo’lgan adabiyotlar, g’oyalar, tajribalarni o’rganib chiqish asosida tug’iladigan farazlar, modellar, bajarilishi kerak bo’lgan ishlar loyihasini sinab ko’rish va amaliyotga tadbiq qilish metodi."
+        },
+        {
+            "en_word": "Energizer exercises",
+            "uz_word": "Enerjayzer ",
+            "discription": "ta’lim jarayonining faollashtiruvchi   usullardan   biri.   O’quvchilarda izlanuvchanlik,   topqirlik xislatlarini shakllantirishga qaratilgan adabiyot ta’limi jarayonida qo’llaniladigan o’qitish usuli."
+        },
+        {
+            "en_word": "Encyclopedia",
+            "uz_word": "Ensiklopediya",
+            "discription": "(yun. Enkyklios paideia -  bilimlar doirasi),  – muayyan tizimga solingan keng qamrovli bilimlar to’plami, ilmiy yoki ilmiy ommabop nashr."
+        },
+        {
+            "en_word": "Ergonomics",
+            "uz_word": "Ergonomika",
+            "discription": "zamonaviy darsliklarning har tomonlama didaktik tomondan o’rganuvchi pedagogik soha."
+        },
+        {
+            "en_word": "Fairy tales",
+            "uz_word": "Ertak",
+            "discription": "xalq og’zaki poetik ijodining asosiy janrlaridan biri; to’qima va uydirmaga asoslangan sehrli-sarguzasht va maishiy xarakterdagi epik badiiy asar."
+        },
+        {
+            "en_word": "Esthetic education",
+            "uz_word": "Estetik tarbiya",
+            "discription": "yoshlarda borliq va san’atdagi go’zallikni to’g’ri tushunish va qabul qilish ko’nikmalarini shakllantirish, ularda estetik hissiyot, did va qarashlarni tarkib toptirish, tarbiyalanuvchilarning go’zallik yaratishda ishtirok etish ehtiyoji va layoqatlarini rivojlantirish jarayoni."
+        },
+        {
+            "en_word": "Esthetics",
+            "uz_word": "Estetika",
+            "discription": "( yun. aisthetikos – his qiluvchi, hissiy tarbiyaga doir)   –   o’quv predmeti,  inson  bilan  dunyo  o’rtasidagi  qadriyat  munosabatining  o’ziga  xos tomonlarini va kishilarning badiiy faoliyati sohasini o’rganuvchi falsafiy fan."
+        },
+        {
+            "en_word": "Ethics",
+            "uz_word": "Etika",
+            "discription": "(yun. ethoss  - xulq, odat)  – o’quv fani axloq  va uning shaxs hamda jamiyat hayotidagi o’rnini o’rganuvchi falsafiy fan."
+        },
+        {
+            "en_word": "Ethnopedagogy",
+            "uz_word": "Etnopedagogika",
+            "discription": "xalq  milliy  an’ana,  ijtimoiy tajriba, ma’naviy- ma’rifiy, madaniy-etnik  qadriyatlarining  psixologik-pedagogik  asoslarini aniqlash va amaliyotga tadbiq etishga qaratilgan pedagogika fani tarmog’i."
+        },
+        {
+            "en_word": "Heuristics",
+            "uz_word": "Evristik",
+            "discription": "o’quvchilarda topqirlik, faollikni rivojlantirishga yo’naltirilgan o’quv jarayoni."
+        },
+        {
+            "en_word": "Heuristic activity",
+            "uz_word": "Evristik faoliyat",
+            "discription": "mahsuldor ijodiy fikrlash."
+        },
+        {
+            "en_word": "Heuristic conversation",
+            "uz_word": "Evristik suhbat",
+            "discription": "o’qituvchi tomonidan qo’yilgan savollar yordamida o’quvchining avval o’zlashtirgan bilimlari va kuzatishlariga tayanib, muayyan yangi xulosalar chiqarishi va ma’lumotlarni kashf etishiga qaratilgan o’qitish shakli."
+        },
+        {
+            "en_word": "Heuristics",
+            "uz_word": "Evristika",
+            "discription": "(yun. heurisko – izlayman, topaman)  –  1) masala echishning maxsus usullari (evristik usullar); 2) EHM (kompyuter ) uchun dasturlar tuzish usuli (evristik dasturlash.); 3) mahsuldor ijodiy fikrlash (tafakkur) jarayonini tashkil qilish (evristik faoliyat); 4) evristik faoliyatni o’rganadigan predmet; fikrlash haqidagi fanning maxsus bo’limi."
+        },
+        {
+            "en_word": "An optional course ",
+            "uz_word": "Fakultativ kurs",
+            "discription": "uzluksiz ta’lim jarayonida nazariy bilimlarni kengaytirish hamda chuqurlashtirish maqsadida o’tiladigan ixtiyoriy o’quv kursi."
+        },
+        {
+            "en_word": "Faculty",
+            "uz_word": "Fakultet",
+            "discription": "(lot. fakultas  - imkoniyat, qobiliyat)  –  oliy va o’rta maxsus  o’quv yurtining o’quv-ilmiy, ma’muriy- tashkiliy bo’linmasi."
+        },
+        {
+            "en_word": "Science",
+            "uz_word": "Fan",
+            "discription": "1) dunyo haqidagi bilimlar tizimi, ijtimoiy ong shakllaridan biri. 2) kadrlar tayyorlash milliy modelining asosiy tarkibiy qismi."
+        },
+        {
+            "en_word": "Doctor of Science",
+            "uz_word": "Fan doktori",
+            "discription": "yuqori ilmiy daraja. Dastlab 1130 y. Bolonya universitetida joriy etilgan bo’lib, magistrlik darajasiga ega bo’lgan o’qituvchilarga berilgan."
+        },
+        {
+            "en_word": "Activity",
+            "uz_word": "Faoliyat",
+            "discription": "muayyan maqsadga yo’naltirilgan ish, harakat, mashg’ulot"
+        },
+        {
+            "en_word": "Productivity research methods",
+            "uz_word": "Faoliyat mahsulini o’rganish metodi",
+            "discription": "pedagogika va psixologiya tarixini o’rganish, ta’lim menejmenti asoslarini ifodalash hamda ta’lim-tarbiya jarayonlarini boshqarishda optimal qarorlar qabul qilishda keng foydalaniladigan metodlar."
+        },
+        {
+            "en_word": "Activity parameters",
+            "uz_word": "Faoliyat parametrlari",
+            "discription": "faoliyat yo’nalishlari."
+        },
+        {
+            "en_word": "Assumption",
+            "uz_word": "Faraz",
+            "discription": "muayyan voqea-hodisa haqida oldindan, taxminan chiqarilgan hukm, xulosa, taxminiy mulohaza."
+        },
+        {
+            "en_word": "Facilitator",
+            "uz_word": "Fasilitator",
+            "discription": "o’qitish metodlari bo’yicha maslahatchi."
+        },
+        {
+            "en_word": "Phenomenal memory",
+            "uz_word": "Fenomenal xotira",
+            "discription": "idrok qilingan narsa va xususiyatlarni, ularning bog’lanishi  munosatlarini favqulodda  tez  hamda  aniq  esda  qoldirish  va  esga tushuntirishdan iborat nodir qobiliyat."
+        },
+        {
+            "en_word": "Thought",
+            "uz_word": "Fikr",
+            "discription": "tushuncha, bilim, ong, aql, maslak"
+        },
+        {
+            "en_word": "To think",
+            "uz_word": "Fikrlash",
+            "discription": "muayyan voqea-hodisa haqida ma’lum bir xulosaga kelish uchun mulohaza yuritish, o’ylash."
+        },
+        {
+            "en_word": "Formal teaching",
+            "uz_word": "Formal o’qitish",
+            "discription": "fan asoslarini o’zlashtirishga ikkinchi darajali vazifa sifatida qarab, maktabning vazifasi o’quvchilarning aqliy qobiliyatlarini o’stirishdan iborat deb biluvchi pedagogik yo’nalish."
+        },
+        {
+            "en_word": "A forum",
+            "uz_word": "Forum",
+            "discription": "yig’in o’tkaziladigan joy."
+        },
+        {
+            "en_word": "Gender",
+            "uz_word": "Gender",
+            "discription": "inglizcha so’z bo’lib, jinsga mansublikning ijtimoiy jihatlari ma`nosini anglatadi.  Pedagogik sohada o’g’il va qiz bolalarning murakkab ta`limiy sotsiomadaniy birligi bo’lib ularning xatti-harakatlari, mentaliteti va emotsional hususiyatlari, o’quv faoliyatidagi o’zaro teng va farqli jihatlarni o’z ichiga oladi."
+        },
+        {
+            "en_word": "Genius",
+            "uz_word": "Genial",
+            "discription": "1) misilsiz iste’dodli, zakovatli shaxs; 2) dohiyona, barkamol, dono-aql-zakovatli, donishmand, aqlli odam."
+        },
+        {
+            "en_word": "The gene pool",
+            "uz_word": "Genofond",
+            "discription": "aholi (millat)ga xos irsiy belgilar majmuasi hamda uning pokizaligi"
+        },
+        {
+            "en_word": "Gymnasium",
+            "uz_word": "Gimnaziya",
+            "discription": "umumiy o’rta ta’lim o’quv muassasasi bo’lib, unda asosiy va o’quvchilarning mayl va qobiliyatlariga ko’ra chuqurlashtirilgan, kasbiy tabaqalashtirilgan ta’limga yo’naltirilgan qo’shimcha o’quv dasturlari  asosida o’qitiladigan ta’lim muassasasi. O’zbekiston va ayrim xorijiy mamlakatlarda umumiy o’rta ta’lim berishga ixtisoslashgan o’quv yurti."
+        },
+        {
+            "en_word": "Hypermedia books",
+            "uz_word": "Gipermediya kitoblar",
+            "discription": "multimediya kitoblarning takomillashgan shakli bo’lib, bunda foydalanuvchi asosiy matndan tashqari turli qo’shimcha manbalarga ham   (sharhlarga, atamalarning izohlariga, tuzatishlariga) murojaat qilish mumkin bo’lgan darslik"
+        },
+        {
+            "en_word": "The epistemological pedagogical basis",
+            "uz_word": "Gneseologik pedagogik negiz",
+            "discription": "pedagogika nazariyasining ijtimoiy - siyosiy, tabiiy, madaniy-ma’naviy borliqqa munosabati va uni aks ettirishi."
+        },
+        {
+            "en_word": "Gnesology",
+            "uz_word": "Gnesologiya",
+            "discription": "bilish haqidagi ta’limot."
+        },
+        {
+            "en_word": "Humanism",
+            "uz_word": "Gumanizm",
+            "discription": "1) insonparvarlik, kishini qadrlash, unga muhabbat, hurmat bilan qarash.  2)  uyg’onish  davrida  (XIV-XVI  asrlarda)  G’arbiy  Evropada  ilk burjua madaniyatida paydo bo’lgan va burjuaziya dunyoqarashini aks ettirgan oqim, feodalizm va uning ideologiyasiga qarshi kurashga, insonni feodalizm va katolitsizm asoratidan ozod qilishga qaratilgan progressiv harakat."
+        },
+        {
+            "en_word": "Humanist",
+            "uz_word": "Gumanist",
+            "discription": "gumanizm tarafdorlari; gumanizm ruhi bilan sug’orilgan insonparvar odam."
+        },
+        {
+            "en_word": "Humanistic",
+            "uz_word": "Gumanistik",
+            "discription": "gumanizmga oid, gumanizm g’oyalari bilan sug’orilgan, insonparvar, masalan, gumanistik pedagogika, gumanistik dunyoqarash va h.k."
+        },
+        {
+            "en_word": "Humanitarian",
+            "uz_word": "Gumanitar",
+            "discription": "1)inson shaxsi, uning xuquqi va manfaatlariga mansubni anglatuvchi tushuncha va bilimlar; 2) ijtimoiy fanlarga oid, shaxs va uning madaniyatini o’rganadigan, masalan, gumanitar ta’lim, gumanitar fanlar pedagogika va psixologiya."
+        },
+        {
+            "en_word": "Collaborative pedagogy",
+            "uz_word": "Hamkorlik  pedagogikasi",
+            "discription": "1)  bu  mustaqil  pedagogik  konsepsiya  bo’lib, uning asosiy natijasi o’quvchi va o’qituvchi hamkorligida ko’zlangan maqsadga erishish; 2)  XX  asrning  70-80-  yillarida  shakllangan novator-o’qituvchilar harakati."
+        },
+        {
+            "en_word": "Military pedagogy",
+            "uz_word": "Harbiy pedagogika",
+            "discription": "harbiy o’quv yurtlarida beriladigan ta’lim-tarbiyaning nazariy-amaliy masalalarini o’rganuvchi pedagogika fanining alohida bo’limi."
+        },
+        {
+            "en_word": "Military education",
+            "uz_word": "Harbiy ta’lim",
+            "discription": "qurolli kuchlar va qo’shin turlari uchun kadrlar tayyorlash. Harbiy ta’limning paydo bo’lishi va taraqqiyoti harbiy fan va harbiy san’at taraqqiyoti bilan uzviy bog’liq"
+        },
+        {
+            "en_word": "Military educational institutions",
+            "uz_word": "Harbiy  o’quv  yurtlari",
+            "discription": "1)qurolli  kuchlarning  barcha  turlari,  qo’shin turlari va maxsus qo’shinlar uchun kadrlar tayyorlovchi o’quv muassasasi; 2) harbiy ta’lim sirlari, uning nazariy-amaliy asoslarini o’rgatadigan o’quv yurti."
+        },
+        {
+            "en_word": "A letter",
+            "uz_word": "Harf",
+            "discription": "alifbo sirasida bo’lgan, yozuvda nutq tovushlarini (fonemalarni), ularning  variantlari  va  ba’zi  bir  qo’shilmalarini  ifodalash  uchun  xizmat qiladigan bosma yoki yozma grafik belgi."
+        },
+        {
+            "en_word": "Storytelling",
+            "uz_word": "Hikoya-bayon",
+            "discription": "yangi mavzu mazmunining ochib berilishi, muayyan  reja asosida matnning asosiy muhim jihatlarni ajratib izchil bayon qilishga asoslangan yozma ish turi."
+        },
+        {
+            "en_word": "A story-summary",
+            "uz_word": "Hikoya-xulosa",
+            "discription": "mashg’ulot so’nggida asosiy fikrni yakunlash, xulosalash va umumlashtirish,  muayyan  mavzu  yuzasidan  mustaqil  ishlash  uchun  topshiriqlar berish usuli."
+        },
+        {
+            "en_word": "Hija method",
+            "uz_word": "Hijo usuli",
+            "discription": "(usuli tahajji) – o’quvchilarga alifbo tartibidagi harflarning nomlari; ular  asosida yasalgan hijo, ya’ni  bo’g’inlar, abjadni  yodlash va o’qitishga asoslangan didaktik usul. "
+        },
+        {
+            "en_word": "Emotion",
+            "uz_word": "Hissiyot",
+            "discription": "shaxsning voqeilikdagi narsa va hodisalarga, kishilarga hamda o’z-o’ziga bo’lgan munosabatlardan kelib chiqadigan kechinmalari."
+        },
+        {
+            "en_word": "Calculation",
+            "uz_word": "Hisoblash",
+            "discription": "sonlarning sanog’i va miqdorini aniqlash."
+        },
+        {
+            "en_word": "Internal tolerance",
+            "uz_word": "Ichki tolerantlik",
+            "discription": "shaxsning  ma’naviy-ruhiy holatida  o’z  bilim  va tajribalariga tayangan holda har qanday muammo yuzasidan to’g’ri va birovlar qadr-qimmatini yerga urmagan holdagi qarorlarni o’zi uchun qabul qila olish imkoniyati."
+        },
+        {
+            "en_word": "An ideal",
+            "uz_word": "Ideal",
+            "discription": "(yunon. timsol, g’oya, tushuncha) –  biror narsa, voqea va hodisaning oliy namunasi, kamoloti, jamiyat a’zolari intiluvchi oliy maqsad."
+        },
+        {
+            "en_word": "Identification",
+            "uz_word": "Identifikatsiya",
+            "discription": "identifikatsiya sub’ektning o’zini o’zga ob’ekt, guruh, guruh   vakiliga o’xshatish yoki tenglashtirishda   emotsional-kognitiv   anglash jarayonidir."
+        },
+        {
+            "en_word": "Cognition",
+            "uz_word": "Idrok",
+            "discription": "o’quvchi va talabaning bilish, tushunish qobiliyati, zehni, fahm-farosati."
+        },
+        {
+            "en_word": "Hierarchy",
+            "uz_word": "Ierarxiya",
+            "discription": "bir butun narsa yoki hodisalar ayrim qismlari yoki elementlari."
+        },
+        {
+            "en_word": "Creativity",
+            "uz_word": "Ijod",
+            "discription": "o’quvchi va talabaning yaratuvchiligi, kashfiyoti."
+        },
+        {
+            "en_word": "Socially centralized pedagogical technology",
+            "uz_word": "Ijtimoiy markazlashgan pedagogik texnologiya",
+            "discription": "bola hayotiy faoliyatining ijtiomiy-pedagogik shart-sharoitlari, parametrlarini rivojlantirish va o’zgartirishga qaratiladi."
+        },
+        {
+            "en_word": "Social pedagogy",
+            "uz_word": "Ijtimoiy pedagogika",
+            "discription": "1) jamoatchilik   tarbiya   institutlari haqidagi fan; shaxsni shakllantirishga yo’naltirilgan ta’lim-tarbiya tizimi; 2) shaxsni ijtimoiylashtirish,  jamiyat  hayotiga  tayyorlash  muammolari  bilan shug’ullanadigan pedagogika fanining alohida tarmog’i"
+        },
+        {
+            "en_word": "Social perception",
+            "uz_word": "Ijtimoiy persepsiya",
+            "discription": "ijtimoiy narsa va hodisalarni ta’lim oluvchilar tomonidan idrok qilinishi yoki tushunilishi."
+        },
+        {
+            "en_word": "Socialization",
+            "uz_word": "Ijtimoiylashtirish",
+            "discription": "1) inson tomonidan jamiyatda muayyan vaqt oralig’ida qadriyatlar, axloqiy me’yor, namuna va ko’rsatmalarning o’zlashtirilishi;   2) shaxsning turli ijtimoiy umumiylik (guruh, ijtimoiy institut, ijtimoiy tashkilot), ijtimoiy munosabatlar tizimiga integratsiyalashuvi. SHaxsning ijtimoiy o’z-o’zini aniqlashidan kelib chiqib, ijtimoiy munosabatlarning umimiy tizimida o’z o’rni va nuqtaiy nazari."
+        },
+        {
+            "en_word": "Academic degree",
+            "uz_word": "Ilmiy daraja",
+            "discription": "muayyan fan sohasidagi mutaxassisning ilmiy malakasi darajasi.  O’zbekistonda  fan  nomzodi  va  fan  doktori  ilmiy  daraja  ta’sis etilgan. Ilmiy daraja yuqori malakali   ilmiy xodimlarga fanini boyituvchi tadqiqot ishlari,   ilmiy muammolarni amaliy yoki nazariy   jihatdan hal qila oladigan mustaqil ilmiy tadqiqoti yohud yangi muammolarni ilmiy asoslanganligiga bag’ishlangan dissertatsiyalarning  maxsus ilmiy    kengashlarda ochiq himoya natijasi asosida ilmiy kengash va O’zbekiston Respublikasi Vazirlar Maxkamasi huzuridagi Oliy attestatsiya komissiyasi (OAK) ekspert kengashi tavsiyasiga binoan   Oliy ma’lumotga ega bo’lgan shaxslarga OAK tomonidan beriladi. O’zbekiston Respublikasida boshqa davlatlarning muayyan muassasalari tomonidan berilgan ilmiy daraja muvofiqlashtirilgandan so’ng haqiqiy hisoblanadi. SHuningdek, O’zbekistonda chet davlatlardagi ilmiy muassasalar tomonidan berilgan faxriy ilmiy darajalarga ega mutaxassislar ham bor. Bunday ilmiy darajalar O’zbekistonda fan, texnika va madaniyat sohasidagi yutuqlari uchun chet ellik olimlarga ham beriladi. CHet el oliy o’quv yurtilari va   ilmiy tadqiqot muassasalarida litsensiat, bakalavr, magistr, fan doktori ilmiy darajalari mavjud."
+        },
+        {
+            "en_word": "Imitation",
+            "uz_word": "Imitatsiya",
+            "discription": "(lot. Imitation – taqlid) – biror narsaga taqlid qilish, o’xshatma."
+        },
+        {
+            "en_word": "Improvisation",
+            "uz_word": "Improvizatsiya",
+            "discription": "tezkor favqulodda ijodkorlik."
+        },
+        {
+            "en_word": "An indicator",
+            "uz_word": "Indikator",
+            "discription": "o’quv  jarayoni yoki  ta’lim ob’ektining holatini ta’lim oluvchi idrok etadigan qulay shaklda aks ettiruvchi asbob."
+        },
+        {
+            "en_word": "An individual",
+            "uz_word": "Individ",
+            "discription": "1)  alohida,     mustaqil  holda  mavjud  bo’lgan  organizm. 2)alohida inson, shaxs."
+        },
+        {
+            "en_word": "Individual teaching",
+            "uz_word": "Individual o’qitish",
+            "discription": "o’quvchi  shaxsiga  alohida  yondoshgan  holda  ta’lim-tarbiya berish. q. Individual ta’lim."
+        },
+        {
+            "en_word": "Individual development",
+            "uz_word": "Individual rivojlanish",
+            "discription": "individning tug’ilganidan boshlab to hayotining so’ngigacha davom etadigan o’ziga xos shakllanish jarayoni."
+        },
+        {
+            "en_word": "Individual education",
+            "uz_word": "Individual ta’lim",
+            "discription": "o’qituvchining o’quvchiga yakka tartibda pedagogik ta’sirini amalga oshiruvchi o’quv mashg’ulotlari shakllaridan biri, o’qituvchining o’quvchi bilan sinf jamoasidan tashqarida olib boriladigan alohida faoliyati."
+        },
+        {
+            "en_word": "Individual approach",
+            "uz_word": "Individual yondashuv",
+            "discription": "pedagogik jarayonni o’quvchining individual o’ziga xos jihatlari ( mijozi, xarakteri, qobiliyati, moyilligi va boshqalarni e’tiborga olgan holda amalga oshirish usuli."
+        },
+        {
+            "en_word": "Individuality",
+            "uz_word": "Individuallik",
+            "discription": "1) muayyan hodisa va narsa, shaxs va jonivorning o’zigagina xos, betakror, xususiy belgilari; 2) inson ruhiyatining o’ziga xosligi, betakrorligi."
+        },
+        {
+            "en_word": "Induction",
+            "uz_word": "Induksiya",
+            "discription": "(lot. inductio to’g’rilash, tartibga keltirish) oddiydan murakkabga qarab fikrlash."
+        },
+        {
+            "en_word": "Inclusive education",
+            "uz_word": "Inklyuziv ta’lim",
+            "discription": "bolalarning imkoniyatlari, individual psixologik, jismoniy nuqson va  o’zlashtirish xususiyatlarini hisobga olgan holda tashkil etiladigan maxsus ta’lim jarayoni"
+        },
+        {
+            "en_word": "Incorporation",
+            "uz_word": "Inkorporatsiya",
+            "discription": "tizimli yondashuv asosida turli fanlarga oid bilimlarni uyg’unlashtirish."
+        },
+        {
+            "en_word": "Innovation",
+            "uz_word": "Innovatsiya",
+            "discription": "yangidan kiritilgan tushunchalar, tartib qoidalar, texnologiyalar va yangiliklar"
+        },
+        {
+            "en_word": "Insight(suddenly remember, find)",
+            "uz_word": "Insayt (to’satdan eslash, topish)",
+            "discription": "kutilmaganda uzoq va diqqat bilan o’ylagan muammoni hal etishning yo’lini topish."
+        },
+        {
+            "en_word": "The “insert” strategy",
+            "uz_word": "«Insert» strategiyasi",
+            "discription": "o’zlashtirilishi ko’zda tutilgan yangi mavzu bo’yicha tahsil  oluvchilarning  muayyan  tushunchalarga  egaliklarini  aniqlash  va  ularda matnga nisbatan tahliliy yondashish ko’nikmalarini shakllantirish usuli."
+        },
+        {
+            "en_word": "The insert method",
+            "uz_word": "Insert usuli",
+            "discription": "o’quv matni ustida ishlash jarayonida o’quvchining faollik ko’rsatishi, o’z bilimlarini baholash uchun qo’llanadigan usul. "
+        },
+        {
+            "en_word": "A person",
+            "uz_word": "Inson",
+            "discription": "1)barcha jonzotlarning eng yuqori pog’onasida turadigan mavjudot, ijtimoiy jarayonlar sub’ekti; 2) ijtimoiy mehnat asosida shakllangan tafakkur va  nutqqa  ega  bo’lishi,  mehnat  qurollari  yasash  va  atrof-muhitga faol  ta’sir ko’rsata oladigan oliy darajadagi tirik mavjudot."
+        },
+        {
+            "en_word": "Institute",
+            "uz_word": "Institut",
+            "discription": "1) turli sohalarga ixtisoslashgan oliy ta’lim muassasasi; 2)fanning muayyan yo’nalishida ilmiy tadqiqot ishlari amalga oshiriladigan ilmiy muassasa"
+        },
+        {
+            "en_word": "Integration",
+            "uz_word": "Integratsiya",
+            "discription": "1)  o’quv  fanlarining  o’zaro  aloqadorligi;  2)  lotincha \"integratio\" so’zidan  olingan bo’lib,  qayta  qurish,  tiklash,  to’ldirish;  \"integr\"  - to’liq,  butun,  yaxlit  degan  ma’noni  anglatadi.  Integratsiya  –  bir-biri  bilan organik birlashib ketish, bir-biriga o’zaro singdirish, bir-biri bilan birlashib yangi, yagona barqaror umumlashgan-yaxlit g’oyani hosil qilish"
+        }
+    ]
